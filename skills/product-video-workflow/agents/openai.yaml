@@ -1,0 +1,7 @@
+interface:
+  display_name: "Product Video Workflow"
+  short_description: "Douyin product-video rough-cut SOP"
+  default_prompt: "Use $product-video-workflow to set up a 36-second 9:16 Douyin product-video workflow with Doubao voiceover."
+
+policy:
+  allow_implicit_invocation: true
